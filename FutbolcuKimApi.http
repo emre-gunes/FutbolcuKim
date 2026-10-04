@@ -1,0 +1,6 @@
+@FutbolcuKimApi_HostAddress = http://localhost:5195
+
+GET {{FutbolcuKimApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
